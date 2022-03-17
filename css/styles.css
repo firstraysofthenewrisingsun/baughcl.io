@@ -7901,6 +7901,13 @@ textarea.form-control-lg {
 .bg-portfolio {
 
   --bs-bg-opacity: 1;
+  background-color: #8D8741 !important;
+
+}
+
+.bg-clients {
+
+  --bs-bg-opacity: 1;
   background-color: #daad86 !important;
 
 }
@@ -11343,7 +11350,7 @@ hr.divider-light {
 
 #mainNav {
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
-  background-color: #8d8741;
+  background-color: #636464;
   transition: background-color 0.2s ease;
 }
 #mainNav .navbar-brand {
@@ -11387,7 +11394,7 @@ hr.divider-light {
   }
   #mainNav.navbar-shrink {
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
-    background-color: #8d8741;
+    background-color: #636464;
   }
   #mainNav.navbar-shrink .navbar-brand {
     color: #212529;
@@ -11454,7 +11461,7 @@ header.masthead h1, header.masthead .h1 {
   text-align: center;
   opacity: 0;
   color: #fff;
-  background: rgba(244, 98, 58, 0.9);
+  background: rgba(226,204,182, 0.9);
   transition: opacity 0.25s ease;
   text-align: center;
 }
