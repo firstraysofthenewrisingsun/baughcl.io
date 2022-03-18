@@ -7912,6 +7912,11 @@ textarea.form-control-lg {
 
 }
 
+.bg-iconbar {
+  --bs-bg-opacity: 1;
+  background-color: #daad86 !important;
+}
+
 .user-select-all {
   -webkit-user-select: all !important;
      -moz-user-select: all !important;
@@ -11413,7 +11418,7 @@ hr.divider-light {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../assets/img/home_blurb.jpg");
+  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../assets/img/bgmasthead.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
